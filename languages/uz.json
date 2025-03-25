@@ -1,0 +1,30 @@
+{
+  "el": {
+    "pagination": {
+      "goto": "O'tish",
+      "pagesize": "/sahifa",
+      "total": "Jami {total}",
+      "pageClassifier": ""
+    }
+  },
+  "the_site_is_in_test_mode": "Sayt sinov rejimida ishlayapti.",
+  "select_country": "Viloyatni tanlang",
+  "select_area": "Tumanni tanlang",
+  "month_and_year": "Oy va yil",
+  "all": "Barchasi",
+  "quarter_and_select_year": "Chorak (va yilni tanlang)",
+  "during_the_year": "Yil davomida",
+  "show_laboratories": "Laboratoriyalarni ko'rish",
+  "area_indicators": "Maydon indikatorlari",
+  "protocols": "Protokollar",
+  "organization": "Tashkilot",
+  "region": "Viloyat",
+  "date": "Sana",
+  "actions": "Amallar",
+  "indicators_or_components": "Ko'rsatkichlar yoki komponetlar",
+  "units_of_measurement": "O'lchov birliklari",
+  "standard": "Standart",
+  "result": "Natijalar",
+  "info": "Ma'lumot",
+  "protocol_standard": "Protokol standartlari"
+}

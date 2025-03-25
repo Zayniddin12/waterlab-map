@@ -1,0 +1,30 @@
+{
+  "el": {
+    "pagination": {
+      "goto": "Перейти",
+      "pagesize": "/страница",
+      "total": "Всего {total}",
+      "pageClassifier": ""
+    }
+  },
+  "the_site_is_in_test_mode": "Сайт находится в тестовом режиме",
+  "select_country": "Выберите область",
+  "select_area": "Выберите район",
+  "month_and_year": "Месяц и год",
+  "all": "Все",
+  "quarter_and_select_year": "Квартал (и выберите год)",
+  "during_the_year": "В течение года",
+  "show_laboratories": "Показать лабаратории",
+  "area_indicators": "Индикаторы площади",
+  "protocols": "Протоколы",
+  "organization": "Организация",
+  "region": "Область",
+  "date": "Дата",
+  "actions": "Действия",
+  "indicators_or_components": "Показатели или компоненты",
+  "units_of_measurement": "Единицы измерения",
+  "standard": "Hорматив",
+  "result": "Результаты",
+  "info": "Инфо",
+  "protocol_standard": "Протокол стадарты"
+}
